@@ -23,8 +23,10 @@ The use case, mentioned in Fig. 8 can be obtained by running the code :
 -- outliers_plot.m
 ```
 
-![](imgs/toy_outliers_matching_real_data_ubuntu.png)
-*Fig. Special case of the outliers presence is depicted by considering a toy time series (top). The 1NN, 2NN and 3NN matrix profiles are shown for the time series (bottom)*
+<p align="center">
+  <img  width="500" src="imgs/toy_outliers_matching_real_data_ubuntu.png">
+</p>
+Fig. Special case of the outliers presence is depicted by considering a toy time series (top). The 1NN, 2NN and 3NN matrix profiles are shown for the time series (bottom)
 
 
 
